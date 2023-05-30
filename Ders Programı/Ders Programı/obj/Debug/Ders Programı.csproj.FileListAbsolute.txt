@@ -1,0 +1,7 @@
+C:\Users\Enes\source\repos\Ders Programı\Ders Programı\bin\Debug\Ders Programı.exe.config
+C:\Users\Enes\source\repos\Ders Programı\Ders Programı\bin\Debug\Ders Programı.exe
+C:\Users\Enes\source\repos\Ders Programı\Ders Programı\bin\Debug\Ders Programı.pdb
+C:\Users\Enes\source\repos\Ders Programı\Ders Programı\obj\Debug\Ders Programı.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\Ders Programı\Ders Programı\obj\Debug\Ders Programı.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Ders Programı\Ders Programı\obj\Debug\Ders Programı.exe
+C:\Users\Enes\source\repos\Ders Programı\Ders Programı\obj\Debug\Ders Programı.pdb

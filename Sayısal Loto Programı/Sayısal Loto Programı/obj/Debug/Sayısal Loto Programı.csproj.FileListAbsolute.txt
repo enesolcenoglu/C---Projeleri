@@ -1,0 +1,7 @@
+C:\Users\Enes\source\repos\Sayısal Loto Programı\Sayısal Loto Programı\bin\Debug\Sayısal Loto Programı.exe.config
+C:\Users\Enes\source\repos\Sayısal Loto Programı\Sayısal Loto Programı\bin\Debug\Sayısal Loto Programı.exe
+C:\Users\Enes\source\repos\Sayısal Loto Programı\Sayısal Loto Programı\bin\Debug\Sayısal Loto Programı.pdb
+C:\Users\Enes\source\repos\Sayısal Loto Programı\Sayısal Loto Programı\obj\Debug\Sayısal Loto Programı.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\Sayısal Loto Programı\Sayısal Loto Programı\obj\Debug\Sayısal Loto Programı.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Sayısal Loto Programı\Sayısal Loto Programı\obj\Debug\Sayısal Loto Programı.exe
+C:\Users\Enes\source\repos\Sayısal Loto Programı\Sayısal Loto Programı\obj\Debug\Sayısal Loto Programı.pdb
